@@ -3,7 +3,7 @@ let nameStr: string;
 let toggle: boolean;
 let empty: null;
 let notInitialize: undefined;
-let callback = (a: number) => {};
+let callback = (a: number) => {return a};
     
     
 age = 50;
